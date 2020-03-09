@@ -49,7 +49,7 @@ Once you've set all that up, you should be able to connect to the Gemma/Trinket 
 
 ## Wiring
 
-![](https://p-MrFZMAV.t0.n0.cdn.getcloudapp.com/items/Apurz9Q5/DiscoHat_bb.png?v=667f99f03960f14d6842d0ae5d7baefd|width=400)
+![](https://p-mrfzmav.t0.n0.cdn.getcloudapp.com/items/kpuYDneo/DiscoHat_bb.png?v=effe038502d960c333dc8c81dbdeb2d3|width=400)
 
 **Note: I'm using purple for V++ in order to make this diagram more accessible to colour-blind folks**
 
