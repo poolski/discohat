@@ -78,3 +78,18 @@ All the components can share a single power and ground line without interference
 - Connect the **OUT** pin of the mic to **D1** on the Gemma.
 - Connect all the **GND** pads on the Gemma, mic and LEDs together however you like
 - Do the same for the positive (**VCC/Vin/PWR**) pads. Remember to use the **3Vo** pad on the Gemma.
+
+## Flash the code
+
+Once everything is wired in (test using a breadboard or something similarly non-permanent if unsure), you can connect your Gemma to your computer. If you've set everything up right, you should be able to copy the code from this repository into the Arduino IDE and upload straight to the controller.
+
+Lines 78-79 contain some serial output statements so that you can monitor what's happening.
+Opening the Serial Plotter in the IDE will give you a real-time chart of how the audio detection is working.
+```cpp
+  Serial.println(n);
+  Serial.print(" ");
+```
+
+To test it, just play some music and see what happens!
+
+Good luck
