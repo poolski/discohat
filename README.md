@@ -7,7 +7,11 @@
 
 > The projects above use various Arduino-based controllers, but we're using the Adafruit Gemma M0 platform which requires a bit more setup to make it work with the Arduino editor.
 
-## Parts Bill
+## Quick demo
+
+[![](http://img.youtube.com/vi/DGkDaRPkA_0/0.jpg)](http://www.youtube.com/watch?v=DGkDaRPkA_0 "")
+
+## Parts bill
 
 I'm based in the UK, so the links are to a UK-based parts supplier, but you can replace them with Amazon or whatever your preferred vendor is. Obviously, Adafruit sell everything other than baseball caps so that might be a natural choice for US-based folks 🤷‍♂️
 
