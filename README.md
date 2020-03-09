@@ -72,6 +72,8 @@ All the components can share a single power and ground line without interference
 - Connect the **In** pin on the Jewel to **D2** on the Gemma
 - Connect the **In** pin on each NeoPixel Strip to **D0** on the Gemma.
   - It is better to run 6 individual cables (3 for each strip) through a slit in the center of the hat than try to bridge the positive and GND pins on the strips. You run less risk of snapping a wire that way.
+  - Pay attention to the fact that the **GND** and **Vin** pads will be reversed on one of the strips.
+  - Also pay attention to the direction arrows on the strips. They only work one way. If you solder to the wrong end of the strip, you'll get nothing.
   - Once you've run all the cables through, you can join them inside the headband wherever feels convenient.
 - Connect the **OUT** pin of the mic to **D1** on the Gemma.
 - Connect all the **GND** pads on the Gemma, mic and LEDs together however you like
